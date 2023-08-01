@@ -1,0 +1,11 @@
+.bg-teal {
+  background-color: rgb(94 234 212);
+}
+
+.bg-btn {
+  background-color: #14b8a6;
+}
+.bg-btn:hover {
+  color: white;
+  background-color: #0d9488;
+}
